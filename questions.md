@@ -1,10 +1,10 @@
-#Question
+Question
 ---
 Q1: Why we must handle all exceptions and recover from the failures?
 
 Q2: What are disadvantages of duplication code?
 
-#Answer
+Answer
 ---
 Q1: Perhaps you’re calling some code that might throw an exception; in your own code you can try to handle and recover from that failure. It’s great if you can recover and continue with the processing without your user being aware of any problem. If you can’t recover, it’s great to let the user of your code know exactly what went wrong.
 
