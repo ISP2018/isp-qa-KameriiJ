@@ -24,9 +24,11 @@ Q2:<br>
 
 Ref: [Clean Code](http://www.investigatii.md/uploads/resurse/Clean_Code.pdf) General - G5: duplication (page 289)
 
-Q3:<br>
+Q3:
 - [ ] You may not write unit test until you have written a production code.
 - [X] You may not write production code until you have written a failing unit test.
 - [X] You may not write more of a unit test than is sufficient to fail, and not compiling is failing.
 - [X] You may not write more production code than is sufficient to pass the currently failing test.
 - [ ] You may write more production code than is sufficient to make sure that all of bugs are already fixed.
+
+Ref: [Clean Code](http://www.investigatii.md/uploads/resurse/Clean_Code.pdf) "Unit Tests" (page 121)
