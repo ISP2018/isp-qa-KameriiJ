@@ -11,7 +11,7 @@ Q3: TDD(Test Driven Development) asks us to write unit tests that cover virtuall
 - [ ] You may not write more production code than is sufficient to pass the currently failing test.
 - [ ] You may write more production code than is sufficient to make sure that all of bugs are already fixed.
 
-Q4: 
+Q4: Quite a few problems were fixed in review process. Code reviews are not just for code written by junior developers—you should perform code reviews on the code written by every developer in the team. What should you look for during a code review?
 
 Answer
 ---
@@ -34,3 +34,12 @@ Q3:
 - [ ] You may write more production code than is sufficient to make sure that all of bugs are already fixed.
 
 Ref: [Clean Code](http://www.investigatii.md/uploads/resurse/Clean_Code.pdf) "Unit Tests" (page 121)
+
+Q4: You might develop your own list of specific issues to check or There’s a very minimal list to get you started:
+- Can you read and understand the code?
+- Are there any obvious errors?
+- Will the code have any undesirable effect on other parts of the application?
+- Is there any duplication of code (within this section of code itself or with other parts of the system)?
+- Are there any reasonable improvements or refactorings that can improve it?
+
+Ref: [PAD](https://github.com/mart0/Useful-materials---books-presentations-ant-etc./raw/master/Others/Practices%20of%20an%20Agile%20Developer.pdf) "Review Code" (page 165)
