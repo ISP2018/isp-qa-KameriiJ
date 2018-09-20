@@ -13,6 +13,8 @@ Q3: TDD(Test Driven Development) asks us to write unit tests that cover virtuall
 
 Q4: Quite a few problems were fixed in review process. Code reviews are not just for code written by junior developers—you should perform code reviews on the code written by every developer in the team. What should you look for during a code review?
 
+Q5: There are many tips that talk about improving your skills and those of your team. "Question Until You Understand" is one technique that almost always helps. Why?
+
 Answer
 ---
 Q1: Perhaps you’re calling some code that might throw an exception; in your own code you can try to handle and recover from that failure. It’s great if you can recover and continue with the processing without your user being aware of any problem. If you can’t recover, it’s great to let the user of your code know exactly what went wrong.
