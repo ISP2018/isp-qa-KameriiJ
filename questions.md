@@ -5,11 +5,11 @@ Q1: Why we must handle all exceptions and recover from the failures?
 Q2: What are disadvantages of duplication code?
 
 Q3: TDD(Test Driven Development) asks us to write unit tests first, before we write production code. There are 3 laws of TDD. Choose three choices that are the laws of TDD.<br>
-- [ ]You may not write production code until you have written a failing unit test.
-- [ ]You may not write more of a unit test than is sufficient to fail, and not compiling is failing. 
-- [ ]You may not write production code until you have written a failing unit test.
-- [ ]You may not write more production code than is sufficient to pass the currently failing test. 
-- [ ]You may not write production code until you have written a failing unit test.
+[ ]You may not write production code until you have written a failing unit test.
+[ ]You may not write more of a unit test than is sufficient to fail, and not compiling is failing. 
+[ ]You may not write production code until you have written a failing unit test.
+[ ]You may not write more production code than is sufficient to pass the currently failing test. 
+[ ]You may not write production code until you have written a failing unit test.
 
 Answer
 ---
