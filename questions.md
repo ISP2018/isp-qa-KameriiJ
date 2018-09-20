@@ -49,3 +49,5 @@ There’s a very minimal list to get you started:
 Ref: [PAD](https://github.com/mart0/Useful-materials---books-presentations-ant-etc./raw/master/Others/Practices%20of%20an%20Agile%20Developer.pdf) "Review Code" (page 165)
 
 Q5: Keep questioning until you really understand will make you work correctly and figure out the problem quickly.
+
+Ref: [PAD](https://github.com/mart0/Useful-materials---books-presentations-ant-etc./raw/master/Others/Practices%20of%20an%20Agile%20Developer.pdf) Tip 8 - Question Until You Understand
