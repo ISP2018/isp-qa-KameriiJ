@@ -35,7 +35,8 @@ Q3:
 
 Ref: [Clean Code](http://www.investigatii.md/uploads/resurse/Clean_Code.pdf) "Unit Tests" (page 121)
 
-Q4: You might develop your own list of specific issues to check or There’s a very minimal list to get you started:
+Q4: You might develop your own list of specific issues to check.
+There’s a very minimal list to get you started:
 - Can you read and understand the code?
 - Are there any obvious errors?
 - Will the code have any undesirable effect on other parts of the application?
