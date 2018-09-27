@@ -9,7 +9,7 @@ Q3: TDD(Test Driven Development) asks us to write unit tests that cover virtuall
 - [ ] You may not write production code until you have written a failing unit test.
 - [ ] You may not write more of a unit test than is sufficient to fail, and not compiling is failing.
 - [ ] You may not write more production code than is sufficient to pass the currently failing test.
-- [ ] You may write more production code than is sufficient to make sure that all of bugs are already fixed.
+- [ ] You may write more of a unit test code than is sufficient to make sure that all of bugs are already fixed.
 
 Q4: Quite a few problems were fixed in review process. Code reviews are not just for code written by junior developers—you should perform code reviews on the code written by every developer in the team. What should you look for during a code review?
 
@@ -33,7 +33,7 @@ A3:
 - [X] You may not write production code until you have written a failing unit test.
 - [X] You may not write more of a unit test than is sufficient to fail, and not compiling is failing.
 - [X] You may not write more production code than is sufficient to pass the currently failing test.
-- [ ] You may write more production code than is sufficient to make sure that all of bugs are already fixed.
+- [ ] You may write more of a unit test code than is sufficient to make sure that all of bugs are already fixed.
 
 Ref: [Clean Code](http://www.investigatii.md/uploads/resurse/Clean_Code.pdf) "Unit Tests" (page 121)
 
